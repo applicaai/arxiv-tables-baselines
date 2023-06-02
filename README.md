@@ -2,8 +2,8 @@
 
 Firstly you need to clone dataset from the [official website](https://gonito.net/challenge/arxiv-tables) following
 "Get your repo" from [the instruction](https://gonito.net/challenge-how-to/arxiv-tables).
-To run T5 and LayoutLM baselines you need out of OCR engine. We provide it in our repository, just unpack `documents-ocr.tar.gz`
-to your directory with cloned challenge. Now you can train both baseline models and evaluate results.
+To run T5 and LayoutLM baselines you need out of OCR engine. We provide it in our [storage](https://figshare.com/account/articles/23284160).
+Unpack it to your directory with cloned challenge. Now you can train both baseline models and evaluate results.
 
 ### LayoutLMv3
 Install requirements:
